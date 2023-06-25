@@ -29,10 +29,11 @@ python finance_calculator.py
 6.	The program will perform the calculations and display the results.
 ### Screenshots
 Here are some screenshots of the Finance Calculator in action:
- 
 
- 
+![investment](https://github.com/dlld8523/finalCapstone/assets/136980403/cd4feb05-221d-40bd-a2d8-4b066165659a)
 
+![bond](https://github.com/dlld8523/finalCapstone/assets/136980403/07cfc4a4-5a15-4596-b639-61c12b6c008b)
+ 
 ### Credits
 This project was created by Yan Li
 
