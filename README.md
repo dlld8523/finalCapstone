@@ -30,10 +30,10 @@ python finance_calculator.py
 ### Screenshots
 Here are some screenshots of the Finance Calculator in action:
 
-![investment](https://github.com/dlld8523/finalCapstone/assets/136980403/cd4feb05-221d-40bd-a2d8-4b066165659a)
+![investment](https://github.com/dlld8523/dlld8523/assets/136980403/8340592c-70a5-4a67-b186-b1c45fbcc5f1)
 
-![bond](https://github.com/dlld8523/finalCapstone/assets/136980403/07cfc4a4-5a15-4596-b639-61c12b6c008b)
- 
+![bond](https://github.com/dlld8523/dlld8523/assets/136980403/9384fe47-7b91-4c9e-b17e-6143c5ae9f71)
+
 ### Credits
 This project was created by Yan Li
 
